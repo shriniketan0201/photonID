@@ -25,7 +25,7 @@ hadd merged_pt.root 40toInf.root 20Toinf.root
 1st step completed 
 ............................................................
 2nd step  
-after obatianing these root files 
+after obtaining these root files 
 we took merged pt sample and evaluate the EA 
 We used merged pt root file as an input to contourbuilderpv.C 
 fitted the isolation vs rho curve with staright line to obatin the Effective area 

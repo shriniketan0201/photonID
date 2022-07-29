@@ -1,4 +1,4 @@
-// Go in this order 
+
 
 First make the root files from Your sample area
 do makeclass on it to produce the .C and .h file 
